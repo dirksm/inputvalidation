@@ -122,5 +122,9 @@ public class InputValidator {
 	    return false;
 	}
     }
+    
+    public String toString() {
+	return super.toString();
+    }
 
 }
