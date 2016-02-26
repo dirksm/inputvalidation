@@ -1,2 +1,6 @@
 /target/*
 /bin/*
+/bin/
+/target/
+target/
+bin/
